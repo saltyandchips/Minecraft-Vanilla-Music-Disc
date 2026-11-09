@@ -1,0 +1,26 @@
+# Third-Party Notices
+
+## Minecraft assets
+
+The audio files under `assets/record_port/sounds/records/` and the textures under
+`assets/record_port/textures/item/` are assets from **Minecraft: Java Edition**,
+extracted from a legitimately owned copy of Minecraft 26.3.
+
+- Copyright © Mojang AB / Microsoft. All rights reserved.
+- These assets are **not** covered by this mod's MIT license.
+- They are included solely to make the ported music discs playable in 1.20.1.
+- This mod is not affiliated with, endorsed by, or approved by Mojang or Microsoft.
+- If Mojang or Microsoft requests removal, the author will remove them.
+
+## Music credits
+
+| Track | Composer |
+|---|---|
+| Creator | Lena Raine |
+| Creator (Music Box) | Lena Raine |
+| Precipice | Aaron Cherof |
+| Tears | Amos Roddy |
+| Lava Chicken | Hyper Potions |
+| Bounce | fingerspit |
+
+Minecraft is a trademark of Mojang Synergies AB.
