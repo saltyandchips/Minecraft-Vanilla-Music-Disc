@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="record_port"
+version="1.0.0"
+displayName="Vanilla Music Disc Port"
+authors="Hoyi"
+logoFile="logo.png"
+description='''Vanilla Music Disc Port for 1.21.1.
+Code is licensed under the MIT License.
+Audio and texture assets are copyright Mojang AB / Microsoft and are NOT covered by the MIT license.
+This is an unofficial mod and is not affiliated with, endorsed by, or associated with Mojang or Microsoft.'''
+
+[[dependencies.record_port]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.record_port]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"

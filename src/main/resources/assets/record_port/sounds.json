@@ -1,0 +1,34 @@
+{
+  "music_disc.tears": {
+    "sounds": [
+      {
+        "name": "record_port:records/tears",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.lava_chicken": {
+    "sounds": [
+      {
+        "name": "record_port:records/lava_chicken",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.bounce": {
+    "sounds": [
+      {
+        "name": "record_port:records/bounce",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.flurry": {
+    "sounds": [
+      {
+        "name": "record_port:records/flurry",
+        "stream": true
+      }
+    ]
+  }
+}
